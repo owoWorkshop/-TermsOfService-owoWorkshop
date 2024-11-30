@@ -3,8 +3,6 @@
 ![이용 약관](https://github.com/owoWorkshop/-TermsOfService-owoWorkshop/blob/main/20240929071714vn3license_ko.pdf)
 ![利用规章](https://github.com/owoWorkshop/-TermsOfService-owoWorkshop/blob/main/20240929071714vn3license_zh.pdf)
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+# 利用規約
+
+<iframe src="https://drive.google.com/file/d/1FahjXnctaywC6fU1tTeAYLvHnk2G5P5Q/preview" width="640" height="480" allow="autoplay"></iframe>
